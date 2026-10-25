@@ -1,0 +1,9 @@
+{
+  "name": "WISE OS",
+  "description": "Joseph's private, evidence-first personal executive system (WITNESS → INTEGRATE → SELECT → EXECUTE). Converts complexity into clarity, decision, action, verification, and learning.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
